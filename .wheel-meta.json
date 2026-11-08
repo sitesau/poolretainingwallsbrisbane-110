@@ -1,0 +1,22 @@
+{
+  "wheel_id": 829,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-110",
+  "project": "pool-retaining-walls-brisbane-materials-compared-7dad85bb3433cb",
+  "parent_t1_ref": "poolretainingwallsbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls brisbane materials compared",
+  "intended_url": "http://pool-retaining-walls-brisbane-materials-compared-7dad85bb3433cb.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2a06bb6d859496ea",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/pool-retaining-walls-brisbane-quotes-explained-574ab239a0d9abbc/",
+      "anchor": "more on pool retaining walls brisbane quotes explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
